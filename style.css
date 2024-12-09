@@ -1,0 +1,24 @@
+input{
+    width: 30%;
+    border-color: rgb(250, 175, 1);
+    box-shadow: 4px 4px 8px gray;
+    padding: 5px;
+}
+button{
+    padding: 5px;
+    width: 80px;
+    box-shadow: 4px 4px 8px gray;
+}
+.card{
+    width: 40px;
+    /* margin: 5px; */
+    /* margin: auto; */
+}
+#error{
+    text-align: center;
+    font-weight: 600;
+}
+
+.header-txt{
+    margin: auto;
+}
